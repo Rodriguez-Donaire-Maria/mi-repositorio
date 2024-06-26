@@ -1,0 +1,31 @@
+.gradient-custom-2 {
+    background:  #65051b;  
+}
+@media (min-width: 768px) {
+.gradient-form {
+height: 100vh !important;
+
+}
+}
+@media (min-width: 769px) {
+.gradient-custom-2 {
+border-top-right-radius: .3rem;
+border-bottom-right-radius: .3rem;
+color: yellow;
+}
+}
+.form-label{
+    color: #65051b;
+    font-family:serif;
+}
+.form-control{
+    width: 100%;
+    background: none;
+    color: #65051b;
+    font-size: 1rem;
+    padding: .6em .3em;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid ;
+    font-family: serif;
+}
